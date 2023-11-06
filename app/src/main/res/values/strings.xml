@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkFive</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="by_signing_up_you_agree_to_photo_s_terms_of_service_and_privacy_policy">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome">WeLCOMe</string>
+</resources>
